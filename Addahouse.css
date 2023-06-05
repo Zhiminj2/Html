@@ -45,3 +45,20 @@ header .logo h2 {
     font-size: 35px;
     color: royalblue;
 }
+
+main .search .nav {
+    width: 100%;
+    background: whitesmoke;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 25px;
+    overflow: hidden;
+}
+main .search .nav input {
+    width: 95%;
+    height: 90%;
+    border: transparent;
+}
+
